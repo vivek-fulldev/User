@@ -1,0 +1,34 @@
+.home {
+  display: flex;
+  background: whitesmoke;
+}
+.bg {
+  width: 50%;
+  height: 100vh;
+}
+
+.bg-box {
+  width: 50%;
+  background-color: #303f9f;
+  color: white;
+  text-align: center;
+  padding: 3rem;
+  padding-top: 10rem;
+  font-weight: 200;
+  font-family: "Poppins", sans-serif;
+  border-radius: 2rem;
+  margin: 3rem;
+}
+
+.bg-box > h1 {
+  font-weight: 400;
+}
+.bg-box > Button {
+  margin: 2rem;
+}
+.bg-box > a {
+  text-decoration: none;
+}
+.form-group {
+  padding: 1rem 0;
+}
